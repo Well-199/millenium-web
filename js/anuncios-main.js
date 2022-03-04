@@ -9,18 +9,17 @@ async function anunciosMain(){
             <!-- Aqui inicia o for provavelmente -->
 
             <div class="col-md-6 wow-outer">
-                <!-- Post Modern inicio do for loop-->
                 <article class="post-modern wow slideInLeft">
                 <a class="post-modern-media" href="#">
                     <img src="images/grid-blog-1-571x353.jpg" alt="" width="571" height="353"/>
                 </a>
-                <h4 class="post-modern-title"><a class="post-modern-title" href="#">5619 Walnut Hill Ln, Dallas, TX 75229</a></h4>
+                <h4 class="post-modern-title"><a class="post-modern-title" href="#">Titulo do anuncio</a></h4>
                 <ul class="post-modern-meta">
-                    <li><a class="button-winona" href="#">$1500/mon</a></li>
-                    <li>30 Sq. Ft.</li>
-                    <li>3 Bedrooms</li>
+                    <li><a class="button-winona" href="#">$Valor</a></li>
+                    <li>Lote</li>
+                    <li>Local</li>
                 </ul>
-                <p>A comfortable residential property located in a quiet and cozy area.</p>
+                <p>Descrição Descrição Descrição Descrição Descrição Descrição</p>
                 </article>
             </div>
 
